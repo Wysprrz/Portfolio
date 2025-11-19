@@ -1,0 +1,25 @@
+---------------------------------------
+|           Pedro Rivera              |
+|        Beginner Python Dev          |
+---------------------------------------
+
+[ About Me ]
+- Who you are
+- What you’re learning
+- Your goal
+
+[ Projects ]
+- Discord Bot (once built)
+- Automation Script
+- Web App
+- Mini Tools
+
+[ Skills ]
+- Python
+- GitHub
+- HTML/CSS (later)
+- VS Code
+
+[ Contact ]
+- Email
+---------------------------------------
